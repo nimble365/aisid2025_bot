@@ -56,7 +56,7 @@ python bot.py
 ```
 /aisid2025_bot
 │── bot.py                # Код Telegram-бота
-│── tech.pdf              # Техническая документация в PDF
+│── tech_doc.md           # Техническая документация в PDF
 │── aisid2025_presentation.pdf # Презентация проекта
 │── README.md             # Документация проекта
 │── requirements.txt      # Список зависимостей
